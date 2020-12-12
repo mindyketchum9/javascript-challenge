@@ -1,8 +1,6 @@
 # javascript-challenge
 
-JavaScript Challenge - JavaScript and DOM Manipulation
-Where is the data from?
-The data is provided by Monash University Data Analytics Bootcamp.
+
 
 What did I do?
 Automatic Table and Date Search
